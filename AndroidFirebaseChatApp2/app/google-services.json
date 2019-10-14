@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "863736377835",
+    "firebase_url": "https://android-firebase-chat-ap-11ddb.firebaseio.com",
+    "project_id": "android-firebase-chat-ap-11ddb",
+    "storage_bucket": "android-firebase-chat-ap-11ddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863736377835:android:b9506190db3ede52",
+        "android_client_info": {
+          "package_name": "com.example.rajeshnarayanarao.androidfirebasechatapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863736377835-b5lf0om1k7hqa6s2i49dsrhgnvt77htt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ITxl8b6bZn8DlX3lhWwIKSXe-it4I3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863736377835-b5lf0om1k7hqa6s2i49dsrhgnvt77htt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
